@@ -1,0 +1,10 @@
+.data-frame {
+  width: 800px;
+  height: 600px;
+  background: black;
+}
+.timeline {
+  width: 800px;
+  height: 50px;
+  background-color: #333;
+}
