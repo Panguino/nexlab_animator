@@ -1,7 +1,8 @@
 import "./App.css";
+import Animator from "./components/Animator/Animator";
 
 function App() {
-  return <>Animator app!!</>;
+  return <Animator />;
 }
 
 export default App;
