@@ -1,0 +1,19 @@
+{
+  "name": "nexlab_animator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panguino/nexlab_animator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panguino/nexlab_animator/issues"
+  },
+  "homepage": "https://github.com/Panguino/nexlab_animator#readme"
+}
